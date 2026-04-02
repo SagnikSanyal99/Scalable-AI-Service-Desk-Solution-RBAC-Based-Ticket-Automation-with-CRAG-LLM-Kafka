@@ -1,0 +1,2 @@
+# Scalable-AI-Service-Desk-Solution-RBAC-Based-Ticket-Automation-with-CRAG-LLM-Kafka
+This project is a Proof of Concept (PoC) for an AI-powered service desk system that automates ticket creation, classification, and routing using:  Corrective RAG (CRAG) for robust retrieval Large Reasoning Model (LLM) for intent understanding Apache Kafka for event-driven scalability RBAC enforcement for secure, compliant workflows
