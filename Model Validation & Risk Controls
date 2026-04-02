@@ -1,0 +1,12 @@
+Pre-Deployment
+Benchmark dataset validation
+Bias testing (role, department)
+Stress testing (ambiguous queries)
+Post-Deployment
+Drift detection
+Continuous feedback loop
+Performance monitoring
+Risk Controls
+Confidence thresholding
+RBAC filtering
+Full audit logs
